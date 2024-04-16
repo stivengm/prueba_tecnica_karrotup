@@ -1,0 +1,15 @@
+.titles, .items {
+    display: flex;
+    gap: 20px;
+}
+.nextHoliday {
+    color: #ff0000;
+}
+.header {
+    display: flex;
+    gap: 33px;
+    align-items: center;
+}
+.header > button {
+    height: min-content;
+}
